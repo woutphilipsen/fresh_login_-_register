@@ -50460,8 +50460,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Wout\Documents\Local_Repository\My_Precious\INERTIA\gym_app\FitnessForce\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Wout\Documents\Local_Repository\My_Precious\INERTIA\gym_app\FitnessForce\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Wout\Documents\Local_Repository\My_Precious\INERTIA\clean_setup_vue_inertia_login_register\gym_app\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Wout\Documents\Local_Repository\My_Precious\INERTIA\clean_setup_vue_inertia_login_register\gym_app\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
