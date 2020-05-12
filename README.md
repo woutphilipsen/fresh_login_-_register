@@ -1,6 +1,19 @@
-## setup inertia after initializing laravel project
+## git clone this project & cd into it, run the following commands
+    composer install
+    npm install
+    npm run watch
 
-## SERVER-SIDE
+## Make a database en setup .env file for local development & run
+    php artisan migrate
+
+## Start project & yor app will be available @ localhost:8000
+    php artisan serve
+## ---------------------------------------
+
+## things that changed from fresh laravel project
+##  inertia after initializing 
+
+SERVER-SIDE
 
 ## Install dependencies
 ## Install the Inertia server-side adapters using the preferred package manager for 
